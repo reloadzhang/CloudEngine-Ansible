@@ -1,0 +1,5 @@
+---
+galaxy_info:
+  author: huawei #Jeremy Schulman
+  description: Network build automation of huawei devices. 
+  company: huawei Networks, Inc.
